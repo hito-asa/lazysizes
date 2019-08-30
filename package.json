@@ -25,7 +25,7 @@
     "jquery": "^2.1.4",
     "jquery-deparam": "^0.1.0",
     "picturefill": "^2.2.0",
-    "qunitjs": "^1.17.0",
+    "qunitjs": "^2.4.1",
     "respimage": "^1.4.2"
   },
   "npmName": "lazysizes",
